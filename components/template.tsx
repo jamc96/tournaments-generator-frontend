@@ -1557,19 +1557,6 @@ export default function FormatTemplate({
       <br />
       <br />
       <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
       <p className='c12'>
         <span className='c0'>
           FORMATO DE ORDEN DE PARTIDOS PARA CAPITANES DE EQUIPOS
