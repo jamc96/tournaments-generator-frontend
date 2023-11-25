@@ -457,153 +457,9 @@ export default function FormatTemplate({
           </td>
         </tr>
       </table>
+      
       <p className='c54'>
-        <span className='c17'>&nbsp; &nbsp; &nbsp; PARTIDO #4</span>
-      </p>
-      <a id='t.d007a65990ea491efe90d9cd3d648bf51daa7b2c'></a>
-      <a id='t.3'></a>
-      <table className='c19'>
-        <tr className='c8'>
-          <td className='c4' colSpan={1} rowSpan={1}>
-            <p className='c1'>
-              <span className='c17'>LETRA</span>
-            </p>
-          </td>
-          <td className='c28' colSpan={1} rowSpan={1}>
-            <p className='c1'>
-              <span className='c17'>JUGADOR</span>
-            </p>
-          </td>
-          <td className='c3' colSpan={5} rowSpan={1}>
-            <p className='c1'>
-              <span className='c17'>SETS</span>
-            </p>
-          </td>
-          <td className='c41' colSpan={1} rowSpan={1}>
-            <p className='c1'>
-              <span className='c17'>RESULTADO</span>
-            </p>
-          </td>
-        </tr>
-        <tr className='c8'>
-          <td className='c4' colSpan={1} rowSpan={1}>
-            <p className='c1'>
-              <span className='c36'>C</span>
-            </p>
-          </td>
-          <td className='c28' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'>{jugadorC}</span>
-            </p>
-          </td>
-          <td className='c13' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-          <td className='c21' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-          <td className='c16' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-          <td className='c18' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-          <td className='c29' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-          <td className='c41' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-        </tr>
-        <tr className='c48'>
-          <td className='c4' colSpan={1} rowSpan={1}>
-            <p className='c1'>
-              <span className='c22'>(X o Y)</span>
-            </p>
-            <p className='c1'>
-              <span className='c9'>NO JUGO DOBLES</span>
-            </p>
-          </td>
-          <td className='c28' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'>{ultimoX}</span>
-            </p>
-          </td>
-          <td className='c13' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-          <td className='c21' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-          <td className='c16' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-          <td className='c18' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-          <td className='c29' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-          <td className='c41' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-        </tr>
-        <tr className='c8'>
-          <td className='c4' colSpan={1} rowSpan={2}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-          <td className='c28' colSpan={1} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-          <td className='c7' colSpan={6} rowSpan={1}>
-            <p className='c5'>
-              <span className='c0'></span>
-            </p>
-          </td>
-        </tr>
-        <tr className='c8'>
-          <td className='c28' colSpan={1} rowSpan={1}>
-            <p className='c1'>
-              <span className='c17'>GANADOR</span>
-            </p>
-          </td>
-          <td className='c53' colSpan={6} rowSpan={1}>
-            <p className='c1'>
-              <span className='c17'>PERDEDOR</span>
-            </p>
-          </td>
-        </tr>
-      </table>
-      <p className='c54'>
-        <span className='c17'>&nbsp; &nbsp; &nbsp; PARTIDO #5</span>
+        <span className='c17'>&nbsp; &nbsp; &nbsp; PARTIDO #4 </span>
       </p>
       <a id='t.c044f881ef6501a342876323c30ab33fa3972c74'></a>
       <a id='t.4'></a>
@@ -749,6 +605,151 @@ export default function FormatTemplate({
             </td>
           </tr>
         </thead>
+      </table>
+      <p className='c54'>
+        <span className='c17'>&nbsp; &nbsp; &nbsp; PARTIDO #5</span>
+      </p>
+      <a id='t.d007a65990ea491efe90d9cd3d648bf51daa7b2c'></a>
+      <a id='t.3'></a>
+      <table className='c19'>
+        <tr className='c8'>
+          <td className='c4' colSpan={1} rowSpan={1}>
+            <p className='c1'>
+              <span className='c17'>LETRA</span>
+            </p>
+          </td>
+          <td className='c28' colSpan={1} rowSpan={1}>
+            <p className='c1'>
+              <span className='c17'>JUGADOR</span>
+            </p>
+          </td>
+          <td className='c3' colSpan={5} rowSpan={1}>
+            <p className='c1'>
+              <span className='c17'>SETS</span>
+            </p>
+          </td>
+          <td className='c41' colSpan={1} rowSpan={1}>
+            <p className='c1'>
+              <span className='c17'>RESULTADO</span>
+            </p>
+          </td>
+        </tr>
+        <tr className='c8'>
+          <td className='c4' colSpan={1} rowSpan={1}>
+            <p className='c1'>
+              <span className='c36'>C</span>
+            </p>
+          </td>
+          <td className='c28' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'>{jugadorC}</span>
+            </p>
+          </td>
+          <td className='c13' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+          <td className='c21' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+          <td className='c16' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+          <td className='c18' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+          <td className='c29' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+          <td className='c41' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+        </tr>
+        <tr className='c48'>
+          <td className='c4' colSpan={1} rowSpan={1}>
+            <p className='c1'>
+              <span className='c22'>(X o Y)</span>
+            </p>
+            <p className='c1'>
+              <span className='c9'>NO JUGO DOBLES</span>
+            </p>
+          </td>
+          <td className='c28' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'>{ultimoX}</span>
+            </p>
+          </td>
+          <td className='c13' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+          <td className='c21' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+          <td className='c16' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+          <td className='c18' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+          <td className='c29' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+          <td className='c41' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+        </tr>
+        <tr className='c8'>
+          <td className='c4' colSpan={1} rowSpan={2}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+          <td className='c28' colSpan={1} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+          <td className='c7' colSpan={6} rowSpan={1}>
+            <p className='c5'>
+              <span className='c0'></span>
+            </p>
+          </td>
+        </tr>
+        <tr className='c8'>
+          <td className='c28' colSpan={1} rowSpan={1}>
+            <p className='c1'>
+              <span className='c17'>GANADOR</span>
+            </p>
+          </td>
+          <td className='c53' colSpan={6} rowSpan={1}>
+            <p className='c1'>
+              <span className='c17'>PERDEDOR</span>
+            </p>
+          </td>
+        </tr>
       </table>
       <p className='c46 c37'>
         <span className='c0'></span>
